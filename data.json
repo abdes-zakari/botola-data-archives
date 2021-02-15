@@ -1,0 +1,291 @@
+[
+    {
+        "comp_id": 3968,
+        "game_id": 421359,
+        "game_date": 1244390400,
+        "stage": "29",
+        "home_id": 1288,
+        "home_name": "Olympique Club De Khouribga",
+        "home_score": "2",
+        "home_data": {
+            "goals": [
+                "25min,baker El Hilali",
+                "70min,MOHAMED AMINE NAJMI"
+            ],
+            "yellowCards": [],
+            "redCards": [],
+            "penalties": [],
+            "ownGoals": [],
+            "missedPenalties": []
+        },
+        "away_id": 1290,
+        "away_name": "Itihad Zemmouri de Khemisset",
+        "away_score": "0",
+        "away_data": {
+            "goals": [],
+            "yellowCards": [],
+            "redCards": [],
+            "penalties": [],
+            "ownGoals": [],
+            "missedPenalties": []
+        }
+    },
+    {
+        "comp_id": 3968,
+        "game_id": 421362,
+        "game_date": 1244908800,
+        "stage": "30",
+        "home_id": 1293,
+        "home_name": "Kenitra AC",
+        "home_score": "1",
+        "home_data": {
+            "goals": [
+                "45min,Bilal Biat"
+            ],
+            "yellowCards": [],
+            "redCards": [],
+            "penalties": [],
+            "ownGoals": [],
+            "missedPenalties": []
+        },
+        "away_id": 1168,
+        "away_name": "Maghreb de Fes",
+        "away_score": "2",
+        "away_data": {
+            "goals": [
+                "2min,Abdelkarim Benhania",
+                "67min,Abdelkarim Benhania"
+            ],
+            "yellowCards": [],
+            "redCards": [],
+            "penalties": [],
+            "ownGoals": [],
+            "missedPenalties": []
+        }
+    },
+    {
+        "comp_id": 3968,
+        "game_id": 421364,
+        "game_date": 1244908800,
+        "stage": "30",
+        "home_id": 1295,
+        "home_name": "Jeunesse Sportive El Massira",
+        "home_score": "2",
+        "home_data": {
+            "goals": [
+                "-1min,Hamza Bourazouk"
+            ],
+            "yellowCards": [],
+            "redCards": [],
+            "penalties": [
+                "24min,Hamza Bourazouk"
+            ],
+            "ownGoals": [],
+            "missedPenalties": []
+        },
+        "away_id": 1221,
+        "away_name": "Chabab Mohammedia",
+        "away_score": "0",
+        "away_data": {
+            "goals": [],
+            "yellowCards": [],
+            "redCards": [],
+            "penalties": [],
+            "ownGoals": [],
+            "missedPenalties": []
+        }
+    },
+    {
+        "comp_id": 3968,
+        "game_id": 421355,
+        "game_date": 1244908800,
+        "stage": "30",
+        "home_id": 1296,
+        "home_name": "AS Sale",
+        "home_score": "1",
+        "home_data": {
+            "goals": [
+                "82min,Abdessamad Safraoui"
+            ],
+            "yellowCards": [],
+            "redCards": [],
+            "penalties": [],
+            "ownGoals": [],
+            "missedPenalties": []
+        },
+        "away_id": 5777,
+        "away_name": "Olympic Club de Safi",
+        "away_score": "0",
+        "away_data": {
+            "goals": [],
+            "yellowCards": [],
+            "redCards": [],
+            "penalties": [],
+            "ownGoals": [],
+            "missedPenalties": []
+        }
+    },
+    {
+        "comp_id": 3968,
+        "game_id": 421366,
+        "game_date": 1244991600,
+        "stage": "30",
+        "home_id": 1294,
+        "home_name": "Mouloudia Oujda",
+        "home_score": "1",
+        "home_data": {
+            "goals": [
+                "82min,ZOHAIR ELRAK"
+            ],
+            "yellowCards": [],
+            "redCards": [],
+            "penalties": [],
+            "ownGoals": [],
+            "missedPenalties": []
+        },
+        "away_id": 1288,
+        "away_name": "Olympique Club De Khouribga",
+        "away_score": "1",
+        "away_data": {
+            "goals": [
+                "67min,AHMED ELASSKRI"
+            ],
+            "yellowCards": [],
+            "redCards": [],
+            "penalties": [],
+            "ownGoals": [],
+            "missedPenalties": []
+        }
+    },
+    {
+        "comp_id": 3968,
+        "game_id": 421363,
+        "game_date": 1244995200,
+        "stage": "30",
+        "home_id": 445,
+        "home_name": "Raja Club Athletic",
+        "home_score": "2",
+        "home_data": {
+            "goals": [
+                "1min,Mouhssine Moutouali",
+                "71min,Djim Ngom"
+            ],
+            "yellowCards": [
+                "52min,Mouhssine Moutouali"
+            ],
+            "redCards": [],
+            "penalties": [],
+            "ownGoals": [],
+            "missedPenalties": []
+        },
+        "away_id": 1167,
+        "away_name": "Hassania Union Sport Agadir",
+        "away_score": "1",
+        "away_data": {
+            "goals": [
+                "49min,HAFID OUZID"
+            ],
+            "yellowCards": [
+                "62min,khalid shakor"
+            ],
+            "redCards": [],
+            "penalties": [],
+            "ownGoals": [],
+            "missedPenalties": []
+        }
+    },
+    {
+        "comp_id": 3968,
+        "game_id": 421365,
+        "game_date": 1244995200,
+        "stage": "30",
+        "home_id": 1290,
+        "home_name": "Itihad Zemmouri de Khemisset",
+        "home_score": "0",
+        "home_data": {
+            "goals": [],
+            "yellowCards": [],
+            "redCards": [],
+            "penalties": [],
+            "ownGoals": [],
+            "missedPenalties": []
+        },
+        "away_id": 1291,
+        "away_name": "Kawkab Athletic Club Marrakech",
+        "away_score": "2",
+        "away_data": {
+            "goals": [
+                "90min,Mahdi Nahlan"
+            ],
+            "yellowCards": [],
+            "redCards": [],
+            "penalties": [],
+            "ownGoals": [
+                "22min,Rahhal El Khadouri"
+            ],
+            "missedPenalties": []
+        }
+    },
+    {
+        "comp_id": 3968,
+        "game_id": 421367,
+        "game_date": 1245859200,
+        "stage": "30",
+        "home_id": 6142,
+        "home_name": "Difaa Hassani El Jadidi",
+        "home_score": "2",
+        "home_data": {
+            "goals": [
+                "42min,Reda Ereyahi"
+            ],
+            "yellowCards": [],
+            "redCards": [],
+            "penalties": [
+                "69min,Adil Kerochi"
+            ],
+            "ownGoals": [],
+            "missedPenalties": []
+        },
+        "away_id": 864,
+        "away_name": "Wydad Athletic Club",
+        "away_score": "0",
+        "away_data": {
+            "goals": [],
+            "yellowCards": [],
+            "redCards": [],
+            "penalties": [],
+            "ownGoals": [],
+            "missedPenalties": []
+        }
+    },
+    {
+        "comp_id": 3968,
+        "game_id": 421361,
+        "game_date": 1245859200,
+        "stage": "30",
+        "home_id": 6178,
+        "home_name": "Moghreb Tetouan",
+        "home_score": "0",
+        "home_data": {
+            "goals": [],
+            "yellowCards": [],
+            "redCards": [],
+            "penalties": [],
+            "ownGoals": [],
+            "missedPenalties": []
+        },
+        "away_id": 1297,
+        "away_name": "FAR Rabat",
+        "away_score": "1",
+        "away_data": {
+            "goals": [
+                "76min,Mustapha Allaoui"
+            ],
+            "yellowCards": [],
+            "redCards": [],
+            "penalties": [],
+            "ownGoals": [],
+            "missedPenalties": []
+        }
+    }
+]
